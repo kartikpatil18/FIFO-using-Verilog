@@ -32,6 +32,7 @@ The goal of this project is to design and simulate a parameterized FIFO buffer i
 ```
 ## Block Diagrams
 <img width="942" height="703" alt="image" src="https://github.com/user-attachments/assets/bbb049db-065e-49d5-a976-375a0e5e872f" />
+
 <img width="930" height="608" alt="image" src="https://github.com/user-attachments/assets/d485f85e-2829-4e21-87fd-505f623534ed" />
 
 
