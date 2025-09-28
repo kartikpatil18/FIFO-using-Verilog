@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a **FIFO (First-In-First-Out) memory buffer** in Verilog.
+This project implements a **FIFO (First-In-First-Out) buffer** in Verilog.
 It includes both **synchronous** and **asynchronous** designs to handle different clock domains and demonstrates **metastability handling** in asynchronous FIFO using synchronizer flip-flops.
 
 ## Objective
@@ -62,7 +62,9 @@ You can run the project using **ModelSim/QuestaSim** or any Verilog simulator:
 * Demonstrated metastability resolution using synchronizer flip-flops in async FIFO.
 * Testbenches validate normal operation, underflow, and overflow scenarios.
 
-*(You can insert waveform screenshots here for better presentation.)*
+* Overflow condition(waveform):
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec2c6809-e36d-4db1-88b5-aac3ca3faaac" />
+
 
 ## Key Learnings
 
