@@ -1,4 +1,4 @@
 # FIFO-using-Verilog
-Hi all!,
+Hi all!
 <br>
-this is my FIFO buffer Project using Verilog HDL.
+This is my FIFO buffer Project using Verilog HDL.
