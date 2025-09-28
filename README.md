@@ -30,6 +30,8 @@ The goal of this project is to design and simulate a parameterized FIFO buffer i
 ├── tb_fifo_async.v    # Testbench for asynchronous FIFO
 └── README.md          # Project documentation
 ```
+## Block Diagrams
+<img width="942" height="703" alt="image" src="https://github.com/user-attachments/assets/bbb049db-065e-49d5-a976-375a0e5e872f" />
 
 ## How to Run
 
