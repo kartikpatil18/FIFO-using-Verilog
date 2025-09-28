@@ -29,6 +29,7 @@ The goal of this project is to design and simulate a parameterized FIFO buffer i
 ├── tb_fifo_sync.v     # Testbench for synchronous FIFO
 ├── tb_fifo_async.v    # Testbench for asynchronous FIFO
 └── README.md          # Project documentation
+└── run.do             # to automate compilation, simulation, and waveform setup in ModelSim
 ```
 ## Block Diagrams
 <img width="942" height="703" alt="image" src="https://github.com/user-attachments/assets/bbb049db-065e-49d5-a976-375a0e5e872f" />
