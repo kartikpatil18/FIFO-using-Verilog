@@ -1,4 +1,4 @@
-# FIFO Design in Verilog
+# FIFO Design and Verification using Verilog
 
 ## Project Overview
 
